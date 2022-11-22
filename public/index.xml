@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cayman</title>
+    <link>https://etherworks.netlify.app/</link>
+    <description>Recent content on Cayman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Nov 2022 16:22:20 -0600</lastBuildDate><atom:link href="https://etherworks.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://etherworks.netlify.app/posts/first-post/</link>
+      <pubDate>Tue, 22 Nov 2022 16:22:20 -0600</pubDate>
+      
+      <guid>https://etherworks.netlify.app/posts/first-post/</guid>
+      <description>This is some new text.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://etherworks.netlify.app/page/about/</link>
+      <pubDate>Tue, 22 Nov 2022 15:26:58 -0600</pubDate>
+      
+      <guid>https://etherworks.netlify.app/page/about/</guid>
+      <description>TODO: Add Content</description>
+    </item>
+    
+  </channel>
+</rss>
