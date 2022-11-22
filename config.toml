@@ -1,7 +1,7 @@
 baseURL = "https://etherworks.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Cayman"
+title = "Etherworks"
 theme = "cayman-hugo-theme"
 
 # Google analytics
@@ -18,7 +18,8 @@ pygmentsStyle = "pygments"
   tag = "tags"
 
 [permalinks]
-  post = "/:filename/"
+  #post = "/:filename/"
+  post = "/posts/"
 
 [params]
   # Header text, can be markdown
@@ -62,7 +63,7 @@ pygmentsStyle = "pygments"
 [menu]
   [[menu.nav]]
     name = "Blog"
-    url = "/"
+    url = "/posts"
     weight = 1
   [[menu.nav]]
     name = "Tags"
