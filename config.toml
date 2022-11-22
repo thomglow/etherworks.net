@@ -1,4 +1,4 @@
-baseURL = "etherworks.netlify.app"
+baseURL = "https://etherworks.netlify.app"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Cayman"
